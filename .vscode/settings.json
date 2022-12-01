@@ -108,5 +108,6 @@
         "memory_resource": "cpp",
         "source_location": "cpp",
         "ranges": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
 }
